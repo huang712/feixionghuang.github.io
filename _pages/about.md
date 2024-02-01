@@ -48,15 +48,3 @@ Projects
   * 2021 - 2028, FengYun-3 (FY-3) Global Navigation Satellite System Occultation Sounder (GNOS-II) Development and Manufacture
   * 2016.01 - 2021.12, NASA CYGNSS External Science Team Member Grant
 
-
-Updates on Satellite Missions
-======
-
-### Fengyun-3 Series
-
-| Satellite Name | Launch Date | Orbit | Features |
-|:--------|:-------:|--------:|--------:|
-| FY-3E   | 2021/07/05   | 836 km, 98.5°  | Multi-GNSS |
-| FY-3F   | 2023/08/03   | 407 km, 50°    | Multi-GNSS |
-| FY-3G   | 2023/04/16   | 836 km, 98.5°  | Multi-GNSS |
-|-----------------------------|
