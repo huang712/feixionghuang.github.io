@@ -3,19 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/   #/files/CV.pdf
-
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "CV"
+  # url: /cv/   #/files/CV.pdf      
+
+  - title: "Posts"
     url: /year-archive/   
     
   - title: "Guide"
