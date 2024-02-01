@@ -15,8 +15,8 @@ Invited Talks
 北斗/GNSS-R海洋遥感，2023/10，中国空间科学大会青年学术沙龙    
 星载GNSS-R海面风速反演、应用及未来发展，2023/06，青岛海洋气象研究院   
 风云三号E星GNOS-II海面风速产品最新进展，2023/02，国家卫星气象中心   
-风云三号E星GNOS-II海面风产品最新进展与DDM数据在NWP模式中的直接同化， 2022/03，中国气象科学研究院  
 Overview of GNSS+R Remote Sensing, 2022/05, 北京大学  
+风云三号E星GNOS-II海面风产品最新进展与DDM数据在NWP模式中的直接同化， 2022/03，中国气象科学研究院  
 
 Conference and Workshop Presentations
 ======

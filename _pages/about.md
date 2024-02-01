@@ -13,7 +13,7 @@ I am a research fellow at National Space Science Center, Chinese Academy of Scie
 My research interests are GNSS-R and Signals of Opportunity (SoOp), including
 * Instrument design
 * Data calibration
-* Retrieval of geophysical parameters such as ocean surface wind speed, significant wave height, etc.
+* Retrieval of geophysical parameters such as ocean surface wind, significant wave height, etc.
 * Data assimilation in numerical weather prediction (NWP) models
 * Synergies with other microwave remote sensing techniques such as radiometer, scatterometer, altimeter, SAR and GNSS radio occultation
 
