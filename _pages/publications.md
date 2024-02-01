@@ -15,7 +15,7 @@ Sun, Yueqiang, **Feixiong Huang**, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, 
 
 **Huang, Feixiong**, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. ["Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data."](https://ieeexplore.ieee.org/document/10164173) *IEEE Transactions on Geoscience and Remote Sensing* (2023).
 
-Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. [“Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification.”](https://www.mdpi.com/2072-4292/15/4/1097) Remote Sensing 15, no. 4 (2023): 1097.
+Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. ["Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification."](https://www.mdpi.com/2072-4292/15/4/1097) Remote Sensing 15, no. 4 (2023): 1097.
 
 **Huang, Feixiong**, Junming Xia, Cong Yin, Xiaochun Zhai, Guanglin Yang, Weihua Bai, Yueqiang Sun et al. ["Spaceborne GNSS Reflectometry With Galileo Signals on FY-3E/GNOS-II: Measurements, Calibration, and Wind Speed Retrieval."](http://ieeexplore.ieee.org/document/10034740) *IEEE Geoscience and Remote Sensing Letters* 20 (2023): 1-5.
 
