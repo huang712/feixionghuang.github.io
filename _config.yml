@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Feixiong Huang"
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   bio              : "GNSS-R: calibration, retreival and data assimilation"
   location         : "Beijing, China"
   employer         : "NSSC/CAS"
