@@ -16,19 +16,17 @@ My research interests are GNSS-R ocean applications, including
 * Data assimilation in numerical weather prediction models
 * Synergies with other microwave remote sensing techniques such as radiometer, scatterometer, altimeter, SAR and GNSS radio occultation
 
-Updates on Satellite Missions
+Education
 ======
+* _2016.08 - 2020.12_, PhD, Aeronautics and Astronautics Engineering, Purdue University
+* _2014.08 - 2015.12_, Master, Civil Engineering, Purdue University
+* _2010.09 - 2014.06_, Undergraduate, Wuhan University
 
-### Fengyun-3 Series
-
-| Satellite Name | Launch Date | Orbit | Features |
-|:--------|:-------:|--------:|--------:|
-| FY-3E   | 2021/07/05   | 836 km, 98.5°  | Multi-GNSS |
-| FY-3F   | 2023/08/03   | 407 km, 50°    | Multi-GNSS |
-| FY-3G   | 2023/04/16   | 836 km, 98.5°  | Multi-GNSS |
-|-----------------------------|
-
-
+Working Experience
+======
+_2024.02 - present_, Associate Research Fellow, National Space Science Center, Chinese Academy of Sciences
+_2021.02 - 2024.02_, PostDoc, National Space Science Center, Chinese Academy of Sciences
+_2019.05 - 2019.09_, Visiting Scienctist, Royal Netherlands Meteorological Institute (KNMI)
 
 Honors and Awards
 ======
@@ -41,3 +39,14 @@ Publications
 ======
 
 
+Updates on Satellite Missions
+======
+
+### Fengyun-3 Series
+
+| Satellite Name | Launch Date | Orbit | Features |
+|:--------|:-------:|--------:|--------:|
+| FY-3E   | 2021/07/05   | 836 km, 98.5°  | Multi-GNSS |
+| FY-3F   | 2023/08/03   | 407 km, 50°    | Multi-GNSS |
+| FY-3G   | 2023/04/16   | 836 km, 98.5°  | Multi-GNSS |
+|-----------------------------|
