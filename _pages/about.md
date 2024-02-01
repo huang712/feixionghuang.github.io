@@ -48,9 +48,6 @@ Projects
   * 2021 - 2028, FengYun-3 (FY-3) Global Navigation Satellite System Occultation Sounder (GNOS-II) Development and Manufacture
   * 2016.01 - 2021.12, NASA CYGNSS External Science Team Member Grant
 
-Publications
-======
-
 
 Updates on Satellite Missions
 ======

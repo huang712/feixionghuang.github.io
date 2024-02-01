@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-First/Communication Author
+First Author/Communication
 ======
 Sun, Yueqiang, **Feixiong Huang**, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. "GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications" Remote Sensing 15, no. 24: 5756 (2023).
 
@@ -67,4 +67,4 @@ Open Source Code
 
 Technical Reports
 ======
-**Huang, Feixiong**, Giuseppe Grieco, and Ad Stoffelen. “GNSS-R Processing and NWP Assimilation.” EUMETSAT OSI SAF (2019). [URL](http://www.osisaf.org/?q=content/gnss-r-processing-and-nwp-assimilation)
+**Huang, Feixiong**, Giuseppe Grieco, and Ad Stoffelen. “GNSS-R Processing and NWP Assimilation.” EUMETSAT OSI SAF (2019). [URL](https://osi-saf.eumetsat.int/community/stories/gnss-r-processing-and-nwp-assimilation)
