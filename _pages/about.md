@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research fellow at National Space Science Center, Chinese Academy of Sciences (NSSC/CAS). I am now working on developing and optimizing operational GNSS-R product for satellite missions such as FengYun-3 series.
 
-My research interests are GNSS-R and Signals of Opportunity (SoOP), including
+My research interests are GNSS-R and Signals of Opportunity (SoOp), including
 * Instrument design
 * Data calibration
 * Retrieval of geophysical parameters such as ocean surface wind speed, significant wave height, etc.
@@ -19,16 +19,16 @@ My research interests are GNSS-R and Signals of Opportunity (SoOP), including
 
 Education
 ======
-* 2016.08 - 2020.12, PhD, Aeronautics and Astronautics Engineering, Purdue University
+* 2016.08 - 2020.12, Ph.D in Aeronautics and Astronautics Engineering, Purdue University (Supervisor: Professor James Garrison)
    * Concentration on Computational Science and Engineering (CSE) and Ecological Sciences and Engineering (ESE)
-* 2014.08 - 2015.12, Master, Civil Engineering, Purdue University
-* 2010.09 - 2014.06, Undergraduate, Wuhan University
+* 2014.08 - 2015.12, M.S. in Civil Engineering, Purdue University
+* 2010.09 - 2014.06, B.S. in Geomatics Engineering, Wuhan University
 
 Working Experience
 ======
 * 2024.02 - present, Associate Research Fellow, National Space Science Center, Chinese Academy of Sciences
 * 2021.02 - 2024.02, PostDoc, National Space Science Center, Chinese Academy of Sciences
-* 2019.05 - 2019.09, Visiting Scientist, Royal Netherlands Meteorological Institute (KNMI)
+* 2019.05 - 2019.09, Visiting Scientist, Royal Netherlands Meteorological Institute (KNMI) (Supervisor: Dr. Ad Stoffelen)
 
 Honors and Awards
 ======
