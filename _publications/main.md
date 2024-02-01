@@ -2,7 +2,7 @@
 title: "First Author"
 ---
 
-Huang, Feixiong, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. "Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data." IEEE Transactions on Geoscience and Remote Sensing (2023).
+ ``Huang, Feixiong``, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. "Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data." IEEE Transactions on Geoscience and Remote Sensing (2023).
 
 Huang, F., Xia, J., Yin, C., Zhai, X., Xu, N., Yang, G., ... & Liu, Y. (2022). Assessment of FY-3E GNOS-II GNSS-R global wind product. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 7899-7912.
 
