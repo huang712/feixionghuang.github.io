@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Some useful links and information"
+#title: "Some useful links and information"
 permalink: /notes/
 author_profile: true
 redirect_from:
@@ -24,7 +24,7 @@ About FY-3/GNOS-II GNSS-R Missions
   * Level 1 Data Format
   * Level 2 Ocean Surface Wind Data Format
   * Level 2 Ocean Surface Wind User Guide
-  * [Raw IF Data Format](/files/GNOS-II原始采样数据说明.pdf)
+  * [Raw IF Data Format](https://huang712.github.io/feixionghuang.github.io/files/GNOS-II原始采样数据说明.pdf)
 * FY-3G
   * Level 1 Data Format
   * Level 2 Ocean Surface Wind Data Format
@@ -32,4 +32,4 @@ About FY-3/GNOS-II GNSS-R Missions
 * FY-3F
   * Level 1 Data Format
   * Level 2 Ocean Surface Wind Data Format
-  * Level 2 Ocean Surface Wind User Guide
+  * Level 2 Ocean Surface Wind User Guide#
