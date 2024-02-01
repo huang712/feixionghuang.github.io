@@ -11,42 +11,28 @@ redirect_from:
 
 Invited Talks
 ======
-风云三号E星GNOS-II海面风产品最新进展与DDM数据在NWP模式中的直接同化， 2022/03，中国气象科学研究院 (邀请报告)  
-Overview of GNSS+R Remote Sensing, 2022/05, 北京大学 (邀请报告)
-
-风云三号E星GNOS-II海面风速产品最新进展，2023/02，国家卫星气象中心 (邀请报告)
-
-星载GNSS-R海面风速反演、应用及未来发展，2023/06，青岛海洋气象研究院 (邀请报告)
-
-北斗/GNSS-R海洋遥感，2023/10，中国空间科学大会青年学术沙龙 (邀请报告)
-
-北斗/GNSS-R数据定标与海面风速反演，2023/10，自然资源部第二海洋研究所 (邀请报告)
+北斗/GNSS-R数据定标与海面风速反演，2023/10，自然资源部第二海洋研究所   
+北斗/GNSS-R海洋遥感，2023/10，中国空间科学大会青年学术沙龙    
+星载GNSS-R海面风速反演、应用及未来发展，2023/06，青岛海洋气象研究院   
+风云三号E星GNOS-II海面风速产品最新进展，2023/02，国家卫星气象中心   
+风云三号E星GNOS-II海面风产品最新进展与DDM数据在NWP模式中的直接同化， 2022/03，中国气象科学研究院  
+Overview of GNSS+R Remote Sensing, 2022/05, 北京大学  
 
 Conference and Workshop Presentations
 ======
-* After 2020
+## After 2020  
+A Review of the GNSS-R Wind Product from the Chinese Fengyun-3 Constellation，2023/12，IOVWST 2023  
+全球导航卫星反射计（GNSS-R）反演有效波高敏感性分析，2023/10，中国空间科学大会   
+北斗/GNSS-R海洋遥感，2023/10，中国空间科学大会青年学术沙龙 (邀请报告)  
+风云卫星GNOS-II探测仪GNSS-R海面风速产品及台风应用，2023/04，第二十届热带气旋科学讨论会  
+风云卫星GNOS-II探测仪GNSS-R海面风速产品现状及展望，2023/06，风云卫星用户大会  
+The development of microsatellite-based GNSS remote sensing and photometer in NSSC，2022/12, NSSC-UPC Mini-workshop on Remote Sensing  
+Updates on the GNSS-R Ocean Wind Product from FY-3E GNOS-II Mission, 2022/10, 11th ESA-China GNSS-R Workshop  
+NSSC’s GNSS-R Research Progress in 2021, 2021/11, 10-TH ESA-China GNSS-R Workshop  
+GNSS Reflectometry of GNOS-II on FengYun-3E Satellite: Mission Review and Prelinimary Results, 2021/11, AOMSUC-11 & FY-USERCON 2021  
+Preliminary Validation of FengYun-3E GNOS-II GNSS-R Wind Product, 2021/09, IEEE GNSS+R 2021  
 
-A Review of the GNSS-R Wind Product from the Chinese Fengyun-3 Constellation，2023/12，IOVWST 2023
-
-全球导航卫星反射计（GNSS-R）反演有效波高敏感性分析，2023/10，中国空间科学大会 
-
-北斗/GNSS-R海洋遥感，2023/10，中国空间科学大会青年学术沙龙 (邀请报告)
-
-风云卫星GNOS-II探测仪GNSS-R海面风速产品及台风应用，2023/04，第二十届热带气旋科学讨论会
-
-风云卫星GNOS-II探测仪GNSS-R海面风速产品现状及展望，2023/06，风云卫星用户大会
-
-The development of microsatellite-based GNSS remote sensing and photometer in NSSC，2022/12, NSSC-UPC Mini-workshop on Remote Sensing 
-
-Updates on the GNSS-R Ocean Wind Product from FY-3E GNOS-II Mission, 2022/10, 11th ESA-China GNSS-R Workshop
-
-NSSC’s GNSS-R Research Progress in 2021, 2021/11, 10-TH ESA-China GNSS-R Workshop
-
-GNSS Reflectometry of GNOS-II on FengYun-3E Satellite: Mission Review and Prelinimary Results, 2021/11, AOMSUC-11 & FY-USERCON 2021
-
-Preliminary Validation of FengYun-3E GNOS-II GNSS-R Wind Product, 2021/09, IEEE GNSS+R 2021
-
-* Before 2020
+## Before 2020  
 **Huang, Feixiong**, Bachir Annane, James L. Garrison, Mark Leidner, Giuseppe Grieco, Ad Stoffelen and Ross Hoffman, ``The Influence of Assimilating CYGNSS DDMs on Global Analyses and Tropical Cyclone Forecasts'', in *2020 AGU Fall Meeting*, Online, Dec. 2020.
 
 **Huang, Feixiong**, James L. Garrison, Mark Leidner, Bachir Annane, Giuseppe Grieco, Ad Stoffelen and Ross Hoffman, ``Assimilation of GNSS-R Delay-Doppler Maps into Weather Models'', in *Geoscience and Remote Sensing Symposium (IGARSS) 2020*, Online, Sep. 2020.
