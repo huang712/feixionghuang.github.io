@@ -48,3 +48,8 @@ Projects
   * 2021 - 2028, FengYun-3 (FY-3) Global Navigation Satellite System Occultation Sounder (GNOS-II) Development and Manufacture
   * 2016.01 - 2021.12, NASA CYGNSS External Science Team Member Grant
 
+Academic Service
+======
+* Guest Editor of IEEE JSTARS (2021)
+* Reviewer of IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing, International Journal of Remote Sensing, International Journal of Digital Earth, Geo-spatial Information Science
+* Committee Member and Session Chair of IEEE GNSS+R 2021
