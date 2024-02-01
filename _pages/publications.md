@@ -63,6 +63,8 @@ Xia, Junming, Weihua Bai, Yueqiang Sun, Qifei Du, **Feixiong Huang**, Cong Yin, 
 
 Open Source Code
 ======
+**Feixiong Huang**, Andrew O’Brien, Nereida Rodriguez-Alvarez, James Garrison (2020) GNSS-R DDM Forward Model and Variational Analysis Method for Data Assimilation [Source Code]. [Code Ocean](https://doi.org/10.24433/CO.5369859.v2) [GitHub](https://github.com/huang712/CForwardModel_VAM)
+
 **Feixiong Huang**, Andrew O’Brien, Nereida Rodriguez-Alvarez, James Garrison (2020) GNSS-R DDM Forward Model and Variational Analysis Method for Data Assimilation [Source Code]. https://doi.org/10.24433/CO.5369859.v2 (Also at https://github.com/huang712/CForwardModel_VAM)
 
 Technical Reports
