@@ -1,11 +1,9 @@
 ---
 title: 'Updates on GNSS-R Satellite Missions'
 date: 2024-02-01
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/Missions/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - test
 ---
 
 
