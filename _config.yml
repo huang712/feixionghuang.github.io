@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Feixiong Huang"
   avatar           : "profile.png"
-  bio              : "GNSS-R: calibration, retreival, data assimilation"
+  bio              : "GNSS-R: calibration, retreival and data assimilation"
   location         : "Beijing, China"
   employer         : "NSSC/CAS"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=XWpHp5MAAAAJ&hl=en&oi=sra"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=XWpHp5MAAAAJ"
   email            : "huangfeixiong@nssc.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Feixiong-Huang"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/huang712"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-6888-280X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
