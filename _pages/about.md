@@ -42,7 +42,7 @@ Projects
 * PI:
   * 2022.01 - 2023.12, National Natural Science Foundation of China (国自然青年基金)
   * 2022.07 - 2023.12, FengYun Application Pioneering Project (风云卫星应用先行计划)
-  * 2019.05 - 2019.09, EUMETSAT OSI SAF Visiting Scientist Activity, "GNSS-R Processing and NWP Assimilation"
+  * 2019.05 - 2019.09, EUMETSAT OSI SAF Visiting Scientist Activity
   * 2023.07 - 2025.07, 中国气象局地球系统数值预报中心-风云三号卫星工程项目
 * Participant:
   * 2021 - 2028, FengYun-3 (FY-3) Global Navigation Satellite System Occultation Sounder (GNOS-II) Development and Manufacture
