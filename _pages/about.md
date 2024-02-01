@@ -12,7 +12,7 @@ I am a research fellow at National Space Science Center, Chinese Academy of Scie
 
 My research interests are GNSS-R and Signals of Opportunity (SoOP), including
 * Instrument design
-* Data Calibration
+* Data calibration
 * Retrieval of geophysical parameters such as ocean surface wind speed, significant wave height, etc.
 * Data assimilation in numerical weather prediction (NWP) models
 * Synergies with other microwave remote sensing techniques such as radiometer, scatterometer, altimeter, SAR and GNSS radio occultation
@@ -40,12 +40,13 @@ Honors and Awards
 Projects
 ======
 * PI:
-  * 2022.01 - 2023.12, National Natural Science Foundation of China (国自然青年基金), "The Study on the Variational Assimilation Method of GNSS-R Delay-Doppler Maps in Two-dimensional Ocean Surface Wind Field"
-  * 2022.07 - 2023.12, FengYun Application Pioneering Project (风云卫星应用先行计划), "Typhoon Maximum Wind Speed Estimation based on Fengyun-3 GNOS-II"
+  * 2022.01 - 2023.12, National Natural Science Foundation of China (国自然青年基金)
+  * 2022.07 - 2023.12, FengYun Application Pioneering Project (风云卫星应用先行计划)
   * 2019.05 - 2019.09, EUMETSAT OSI SAF Visiting Scientist Activity, "GNSS-R Processing and NWP Assimilation"
-* Participant
+  * 2023.07 - 2025.07, 中国气象局地球系统数值预报中心-风云三号卫星工程项目
+* Participant:
   * 2021 - 2028, FengYun-3 (FY-3) Global Navigation Satellite System Occultation Sounder (GNOS-II) Development and Manufacture
-  * 2016.01 - 2021.12, NASA CYGNSS External Science Team Member Grant, "Assimilation of GNSS-R Delay-Doppler Maps into Hurricane Models"
+  * 2016.01 - 2021.12, NASA CYGNSS External Science Team Member Grant
 
 Publications
 ======
