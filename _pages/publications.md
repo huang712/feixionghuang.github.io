@@ -15,19 +15,19 @@ Sun, Yueqiang, **Feixiong Huang**, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, 
 
 **Huang, Feixiong**, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. ["Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data."](https://ieeexplore.ieee.org/document/10164173) *IEEE Transactions on Geoscience and Remote Sensing* (2023).
 
-Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. “Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification.” Remote Sensing 15, no. 4 (2023): 1097.
+Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. [“Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification.”](https://www.mdpi.com/2072-4292/15/4/1097) Remote Sensing 15, no. 4 (2023): 1097.
 
-**Huang, Feixiong**, Junming Xia, Cong Yin, Xiaochun Zhai, Guanglin Yang, Weihua Bai, Yueqiang Sun et al. "Spaceborne GNSS Reflectometry With Galileo Signals on FY-3E/GNOS-II: Measurements, Calibration, and Wind Speed Retrieval." *IEEE Geoscience and Remote Sensing Letters* 20 (2023): 1-5.
+**Huang, Feixiong**, Junming Xia, Cong Yin, Xiaochun Zhai, Guanglin Yang, Weihua Bai, Yueqiang Sun et al. ["Spaceborne GNSS Reflectometry With Galileo Signals on FY-3E/GNOS-II: Measurements, Calibration, and Wind Speed Retrieval."](http://ieeexplore.ieee.org/document/10034740) *IEEE Geoscience and Remote Sensing Letters* 20 (2023): 1-5.
 
-**Huang, Feixiong**, Junming Xia, Cong Yin, Weihua Bai, Yueqiang Sun, Qifei Du, Xianyi Wang, Yuerong Cai, and Lichang Duan. "Characterization and calibration of spaceborne GNSS-R observations over the ocean from different BeiDou satellite types." *IEEE Transactions on Geoscience and Remote Sensing* 60 (2022): 1-11.
+**Huang, Feixiong**, Junming Xia, Cong Yin, Weihua Bai, Yueqiang Sun, Qifei Du, Xianyi Wang, Yuerong Cai, and Lichang Duan. ["Characterization and calibration of spaceborne GNSS-R observations over the ocean from different BeiDou satellite types."](https://ieeexplore.ieee.org/document/9963956) *IEEE Transactions on Geoscience and Remote Sensing* 60 (2022): 1-11.
 
-**Huang, Feixiong**, Junming Xia, Cong Yin, Xiaochun Zhai, Na Xu, Guanglin Yang, Weihua Bai et al. "Assessment of FY-3E GNOS-II GNSS-R global wind product." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 15 (2022): 7899-7912.
+**Huang, Feixiong**, Junming Xia, Cong Yin, Xiaochun Zhai, Na Xu, Guanglin Yang, Weihua Bai et al. ["Assessment of FY-3E GNOS-II GNSS-R global wind product."](https://ieeexplore.ieee.org/document/9882299) *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 15 (2022): 7899-7912.
 
-**Huang, Feixiong**, James L. Garrison, S. Mark Leidner, Giuseppe Grieco, Ad Stoffelen, Bachir Annane, and Ross N. Hoffman. "Assimilation of GNSS reflectometry delay‐Doppler maps with a two‐dimensional variational analysis of global ocean surface winds." *Quarterly Journal of the Royal Meteorological Society* , 2021, 147(737): 2469-2489.
+**Huang, Feixiong**, James L. Garrison, S. Mark Leidner, Giuseppe Grieco, Ad Stoffelen, Bachir Annane, and Ross N. Hoffman. ["Assimilation of GNSS reflectometry delay‐Doppler maps with a two‐dimensional variational analysis of global ocean surface winds."](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4034) *Quarterly Journal of the Royal Meteorological Society* , 2021, 147(737): 2469-2489.
 
-**Huang, Feixiong**, James L. Garrison, S. Mark Leidner, Bachir Annane, Ross Hoffman, Giuseppe Grieco, and Ad Stoffelen. “A Forward Model for Data Assimilation of GNSS Ocean Reflectometry Delay-Doppler Maps.” *IEEE Transactions on Geoscience and Remote Sensing*. 2020, 59(3): 2643-2656.
+**Huang, Feixiong**, James L. Garrison, S. Mark Leidner, Bachir Annane, Ross Hoffman, Giuseppe Grieco, and Ad Stoffelen. ["A Forward Model for Data Assimilation of GNSS Ocean Reflectometry Delay-Doppler Maps."](https://ieeexplore.ieee.org/document/9125968) *IEEE Transactions on Geoscience and Remote Sensing*. 2020, 59(3): 2643-2656.
 
-**Huang, Feixiong**, James L. Garrison, Nereida Rodriguez-Alvarez, Andrew J. O’Brien, Kaitie M. Schoenfeldt, Soon Chye Ho, and Han Zhang. “Sequential Processing of GNSS-R Delay-Doppler Maps to Estimate the Ocean Surface Wind Field.” *IEEE Transactions on Geoscience and Remote Sensing*. 2019, 57(12): 10202-10217.
+**Huang, Feixiong**, James L. Garrison, Nereida Rodriguez-Alvarez, Andrew J. O’Brien, Kaitie M. Schoenfeldt, Soon Chye Ho, and Han Zhang. ["Sequential Processing of GNSS-R Delay-Doppler Maps to Estimate the Ocean Surface Wind Field."](https://ieeexplore.ieee.org/abstract/document/8807371) *IEEE Transactions on Geoscience and Remote Sensing*. 2019, 57(12): 10202-10217.
 
 Co-author
 ======
@@ -49,7 +49,7 @@ Yang, Guanglin, Weihua Bai, Jinsong Wang, Xiuqing Hu, Peng Zhang, Yueqiang Sun, 
 
 Liu, Xiaoxu, Weihua Bai, Junming Xia, **Feixiong Huang**, Cong Yin, Yueqiang Sun, Qifei Du et al. "FA-RDN: A hybrid neural network on GNSS-R sea surface wind speed retrieval." *Remote Sensing* 13, no. 23 (2021): 4820.
 
-Conference paper
+Conference papers
 ======
 **Feixiong Huang**, James L. Garrison, S. Mark Leidner, Bachir Annane, Giuseppe Grieco, Ad Stoffelen and Ross Hoffman. “Assimilation of GNSS-R Delay-Doppler Maps into Weather Models.” *2020 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*. IEEE, Waikoloa, 2020. 
 
@@ -67,7 +67,7 @@ Open Source Code
 
 Technical Reports
 ======
-**Huang, Feixiong**, Giuseppe Grieco, and Ad Stoffelen. “GNSS-R Processing and NWP Assimilation.” EUMETSAT OSI SAF (2019). [URL](https://osi-saf.eumetsat.int/community/stories/gnss-r-processing-and-nwp-assimilation)
+**Huang, Feixiong**, Giuseppe Grieco, and Ad Stoffelen. “GNSS-R Processing and NWP Assimilation.” EUMETSAT OSI SAF (2019). [Link](https://osi-saf.eumetsat.int/community/stories/gnss-r-processing-and-nwp-assimilation)
 
 Chinese Patents
 ======
