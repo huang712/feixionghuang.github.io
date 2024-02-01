@@ -11,9 +11,9 @@ redirect_from:
 
 First Author/Communication
 ======
-Sun, Yueqiang, **Feixiong Huang**, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. "GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications" Remote Sensing 15, no. 24: 5756 (2023).
+Sun, Yueqiang, **Feixiong Huang**, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. ["GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications"](https://www.mdpi.com/2072-4292/15/24/5756) Remote Sensing 15, no. 24: 5756 (2023).
 
-**Huang, Feixiong**, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. "Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data." *IEEE Transactions on Geoscience and Remote Sensing* (2023).
+**Huang, Feixiong**, Cong Yin, Junming Xia, Xianyi Wang, Yueqiang Sun, Weihua Bai, Tongsheng Qiu, Qifei Du, Guanglin Yang, and Qi Zheng. ["Analysis and Mitigation of Radio Frequency Interference in Spaceborne GNSS Ocean Reflectometry Data."](https://ieeexplore.ieee.org/document/10164173) *IEEE Transactions on Geoscience and Remote Sensing* (2023).
 
 Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. “Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification.” Remote Sensing 15, no. 4 (2023): 1097.
 
@@ -68,3 +68,8 @@ Open Source Code
 Technical Reports
 ======
 **Huang, Feixiong**, Giuseppe Grieco, and Ad Stoffelen. “GNSS-R Processing and NWP Assimilation.” EUMETSAT OSI SAF (2019). [URL](https://osi-saf.eumetsat.int/community/stories/gnss-r-processing-and-nwp-assimilation)
+
+Chinese Patents
+======
+CN116224379A，一种NBRCS修正方法、装置、电子设备及存储介质，2023  
+CN116184463A，一种宽刈幅海面风场反演方法、装置、设备和介质，2023  
