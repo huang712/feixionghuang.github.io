@@ -36,7 +36,7 @@ For any questions, please contact: huangfeixiong@nssc.ac.cn
 * FY-3F
   * Level 1 Data Format
   * Level 2 Ocean Surface Wind Data Format
-  * Level 2 Ocean Surface Wind User Guide#
+  * Level 2 Ocean Surface Wind User Guide
 
 ## Related Publications:
 Sun, Yueqiang, Feixiong Huang, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. ["GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications"](https://www.mdpi.com/2072-4292/15/24/5756) *Remote Sensing* 15, no. 24: 5756 (2023).
