@@ -49,7 +49,7 @@ Yang, Guanglin, Weihua Bai, Jinsong Wang, Xiuqing Hu, Peng Zhang, Yueqiang Sun, 
 
 Liu, Xiaoxu, Weihua Bai, Junming Xia, **Feixiong Huang**, Cong Yin, Yueqiang Sun, Qifei Du et al. "FA-RDN: A hybrid neural network on GNSS-R sea surface wind speed retrieval." *Remote Sensing* 13, no. 23 (2021): 4820.
 
-Conference papers
+Conference Papers
 ======
 **Feixiong Huang**, James L. Garrison, S. Mark Leidner, Bachir Annane, Giuseppe Grieco, Ad Stoffelen and Ross Hoffman. “Assimilation of GNSS-R Delay-Doppler Maps into Weather Models.” *2020 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*. IEEE, Waikoloa, 2020. 
 

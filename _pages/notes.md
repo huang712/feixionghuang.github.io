@@ -25,14 +25,14 @@ For any questions, please contact: huangfeixiong@nssc.ac.cn
 
 ## Related Documents:
 * FY-3E
-  * Level 1 Data Format
-  * Level 2 Ocean Surface Wind Data Format
-  * Level 2 Ocean Surface Wind User Guide
-  * [Raw IF Data Format](https://huang712.github.io/files/GNOS-II原始采样数据说明.pdf)
+  * [Level 1 Data Format](https://huang712.github.io/files/FY-3E/L1数据产品特性卡_FY-3E全球导航卫星掩星探测仪-II型（GNSS反射）V0.9.5_20220419.pdf)
+  * [Level 2 Ocean Surface Wind Data Format](https://huang712.github.io/files/FY-3E/FY-3E_GNOS海面风速L2产品数据特性卡-20221108.pdf)
+  * [Level 2 Ocean Surface Wind User Guide](https://huang712.github.io/files/FY-3E/风云三号E星产品使用说明文档_GNOS-II海面风速产品20230315.pdf)
+  * [Raw IF Data Format](https://huang712.github.io/files/FY-3E/GNOS-II原始采样数据说明.pdf)
 * FY-3G
-  * Level 1 Data Format
-  * Level 2 Ocean Surface Wind Data Format
-  * Level 2 Ocean Surface Wind User Guide
+  * [Level 1 Data Format](https://huang712.github.io/files/FY-3G/L1数据产品特性卡_FY-3G全球导航卫星掩星探测仪-II型（GNSS反射）v1.0_20230710.pdf)
+  * [Level 2 Ocean Surface Wind Data Format](https://huang712.github.io/files/FY-3G/FY-3G_GNOS-II海面风速产品数据特性卡-20231010.pdf)
+  * [Level 2 Ocean Surface Wind User Guide](https://huang712.github.io/files/FY-3G/风云三号G星产品使用说明文档_GNOS-II海面风速产品20231226.pdf)
 * FY-3F
   * Level 1 Data Format
   * Level 2 Ocean Surface Wind Data Format
@@ -53,4 +53,5 @@ Qiu, Tongsheng, Xianyi Wang, Yueqiang Sun, Fu Li, Zhuoyan Wang, Junming Xia, Qif
 
 Yin, Cong, Feixiong Huang, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. ["Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification."](https://www.mdpi.com/2072-4292/15/4/1097) Remote Sensing 15, no. 4 (2023): 1097.
 
-# TODO: add figures, visualizations,...
+## Example figures
+
