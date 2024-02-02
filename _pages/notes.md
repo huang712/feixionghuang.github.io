@@ -39,7 +39,7 @@ For any questions, please contact: huangfeixiong@nssc.ac.cn
   * Level 2 Ocean Surface Wind User Guide#
 
 ## Related Publications:
-Sun, Yueqiang, Feixiong Huang, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. ["GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications"](https://www.mdpi.com/2072-4292/15/24/5756) Remote Sensing 15, no. 24: 5756 (2023).
+Sun, Yueqiang, Feixiong Huang, Junming Xia, Cong Yin, Weihua Bai, Qifei Du, Xianyi Wang, Yuerong Cai, Wei Li, Guanglin Yang, and et al. 2023. ["GNOS-II on Fengyun-3 Satellite Series: Exploration of Multi-GNSS Reflection Signals for Operational Applications"](https://www.mdpi.com/2072-4292/15/24/5756) *Remote Sensing* 15, no. 24: 5756 (2023).
 
 Yang, Guanglin, Weihua Bai, Jinsong Wang, Xiuqing Hu, Peng Zhang, Yueqiang Sun, Na Xu … Feixiong Huang et al. "FY3E GNOS II GNSS reflectometry: Mission review and first results." *Remote Sensing* 14, no. 4 (2022): 988.
 
@@ -51,7 +51,8 @@ Huang, Feixiong, Junming Xia, Cong Yin, Weihua Bai, Yueqiang Sun, Qifei Du, Xian
 
 Qiu, Tongsheng, Xianyi Wang, Yueqiang Sun, Fu Li, Zhuoyan Wang, Junming Xia, Qifei Du … Feixiong Huang et al. "An Innovative Signal Processing Scheme for Spaceborne Integrated GNSS Remote Sensors." *Remote Sensing* 15, no. 3 (2023): 745.
 
-Yin, Cong, Feixiong Huang, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. ["Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification."](https://www.mdpi.com/2072-4292/15/4/1097) Remote Sensing 15, no. 4 (2023): 1097.
+Yin, Cong, Feixiong Huang, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Yang, Xiaochun Zhai et al. ["Soil Moisture Retrieval from Multi-GNSS Reflectometry on FY-3E GNOS-II by Land Cover Classification."](https://www.mdpi.com/2072-4292/15/4/1097) *Remote Sensing* 15, no. 4 (2023): 1097.
 
 ## Example figures
 
+<br/><img src='https://huang712.github.io/images/500x300.png'>
