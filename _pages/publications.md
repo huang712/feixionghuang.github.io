@@ -31,6 +31,8 @@ Yin, Cong, **Feixiong Huang**, Junming Xia, Weihua Bai, Yueqiang Sun, Guanglin Y
 
 Co-author
 ======
+Jin, Shuanggen, Adriano Camps, Yan Jia, Feng Wang, Manuel Martin-Neira, **Feixiong Huang**, Qingyun Yan et al. "Remote sensing and its applications using GNSS reflected signals: advances and prospects." *Satellite Navigation* 5, no. 1 (2024): 19.
+
 Qiu, Tongsheng, Qi Zheng, Xianyi Wang, **Feixiong Huang**, Junming Xia, Fu Li, Zhuoyan Wang et al. "Retrieving Ocean Surface Wind Speeds in Real Time on Spaceborne GNSS-R Receivers: Algorithm and Validation." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (2023).
 
 Li, Xiaohui, Jingsong Yang, Jiuke Wang, **Feixiong Huang**, He Fang, Guoqi Han, Qingmei Xiao, and Weiqiang Li. "Tropical Cyclone Winds Retrieval Algorithm for the Cyclone Global Navigation Satellite System Mission." *IEEE Geoscience and Remote Sensing Letters* (2023).

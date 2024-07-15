@@ -17,6 +17,8 @@ My research interests are GNSS-R and Signals of Opportunity (SoOp), including
 * Data assimilation in numerical weather prediction (NWP) models
 * Synergies with other microwave remote sensing techniques such as radiometer, scatterometer, altimeter, SAR and GNSS radio occultation
 
+[Personal Homepage on UCAS](https://people.ucas.ac.cn/~huangfeixiong)
+
 Education
 ======
 * 2016.08 - 2020.12, Ph.D in Aeronautics and Astronautics Engineering, Purdue University (Supervisor: Professor James Garrison)
@@ -50,6 +52,7 @@ Projects
 
 Academic Service
 ======
+* Session chair of IEEE IGARSS 2024
 * Guest Editor of IEEE JSTARS (2021)
-* Reviewer of IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing, International Journal of Remote Sensing, International Journal of Digital Earth, Geo-spatial Information Science
+* Reviewer of IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing, International Journal of Remote Sensing, International Journal of Digital Earth, Geo-spatial Information Science, GPS Solutions, Scientific Reports
 * Committee Member and Session Chair of IEEE GNSS+R 2021
