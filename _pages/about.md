@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow at National Space Science Center, Chinese Academy of Sciences (NSSC/CAS). I am now working on developing and optimizing operational GNSS-R product for satellite missions such as FengYun-3 series.
+Associate Professor at National Space Science Center, Chinese Academy of Sciences (NSSC/CAS). I am now working on developing and optimizing operational GNSS-R product for satellite missions such as FengYun-3 series.
 
 My research interests are GNSS-R and Signals of Opportunity (SoOp), including
 * Instrument design
@@ -26,7 +26,7 @@ Education
 
 Working Experience
 ======
-* 2024.02 - present, Associate Research Fellow, National Space Science Center, Chinese Academy of Sciences
+* 2024.02 - present, Associate Professor, National Space Science Center, Chinese Academy of Sciences
 * 2021.02 - 2024.02, PostDoc, National Space Science Center, Chinese Academy of Sciences
 * 2019.05 - 2019.09, Visiting Scientist, Royal Netherlands Meteorological Institute (KNMI) (Supervisor: Dr. Ad Stoffelen)
 
